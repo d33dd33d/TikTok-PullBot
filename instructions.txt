@@ -1,0 +1,25 @@
+### Prerequisites:
+- Make sure Python is installed and added to your system PATH.
+
+### Steps:
+
+1. **Scrape User IDs:**
+   - Run `scrape.py` and enter a TikTok user ID.
+   - The script will scrape users and save them in a file called `combo.txt`.
+   - [Here’s a guide on how to get a TikTok user ID.](https://streamable.com/u9fada)
+
+2. **Run the Main Script:**
+   - Run `main.py` and enter the name of your combolist (e.g., `combo.txt`).
+   - The script will process the users from the list.
+
+3. **Data Output:**
+   - The results will be saved in `checked.txt`.
+   - This file contains account details such as follower counts and email addresses.
+
+4. **Create & Reset Emails:**
+   - Use the found emails (Hotmail and Gmail work best) to reset passwords.
+   - Accounts may not always match, but you’ll often find accounts with good stats (10k+ followers).
+
+5. **Enjoy!**
+
+# made by https://github.com/d33dd33d
